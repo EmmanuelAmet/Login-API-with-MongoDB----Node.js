@@ -12,6 +12,12 @@ multer: ^1.4.2
 sharp: ^0.26.3
 validator: ^13.1.17
 
+User Fields:
+#Firstname
+#Lastname
+#username
+#email
+#password
 
 EndPoints:
 
